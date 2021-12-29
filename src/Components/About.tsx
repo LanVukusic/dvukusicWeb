@@ -1,8 +1,4 @@
-import { Text, Box, Heading, Stack, Tag, Divider } from "@chakra-ui/react";
-
-const H2 = () => {
-  return <Text fontSize={20} marginLeft={3}></Text>;
-};
+import { Text, Box, Heading, Stack, Divider } from "@chakra-ui/react";
 
 export const About = () => {
   return (

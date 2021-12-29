@@ -1,18 +1,9 @@
-import * as React from "react"
 import {
   ChakraProvider,
-  Box,
-  Text,
-  Link,
-  VStack,
-  Code,
-  Grid,
   theme,
   Container,
   Divider,
 } from "@chakra-ui/react"
-import { ColorModeSwitcher } from "./ColorModeSwitcher"
-import { Logo } from "./Logo"
 import { Head } from "./Components/Heading";
 import { Contacts } from "./Components/Contacts";
 import { Lifemed } from "./Components/Lifemed";

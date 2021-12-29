@@ -1,4 +1,4 @@
-import { Box, Button, Flex, Heading, Stack } from "@chakra-ui/react";
+import { Box, Button, Flex, Heading } from "@chakra-ui/react";
 
 export const Head = () => {
   const click=()=>{
